@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Vũ Tiến Hiển"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/image.jpg"
   bio    : "Xin chào, mình là Vũ Tiến Hiển."
   links:
     - label: "Website"
